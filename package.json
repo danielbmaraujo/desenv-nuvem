@@ -1,0 +1,23 @@
+{
+  "name": "desenv-nuvem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielbmaraujo/desenv-nuvem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielbmaraujo/desenv-nuvem/issues"
+  },
+  "homepage": "https://github.com/danielbmaraujo/desenv-nuvem#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
